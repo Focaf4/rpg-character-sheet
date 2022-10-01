@@ -1,8 +1,8 @@
 const data = {
-  name: 'Claudio',
-  player: 'Ryan',
-  occupation: 'Caçador',
-  age: 21,
+  name:'Lunia',
+  player: 'Kirax7',
+  occupation: 'Reporter',
+  age: 19,
   sex: 'male',
   birthplace: 'São paulo',
   residence: 'São paulo',
@@ -18,8 +18,8 @@ const data = {
 
   weapons: [
     {
-      name: 'Balestra',
-      type: 'Arco',
+      name: 'Faca',
+      type: 'Briga',
       damage: '1d20',
       numCurrent: 1,
       numMax: 1,
@@ -29,29 +29,21 @@ const data = {
       area: '',
     },
     {
-      name: 'Canivete',
-      type: 'Briga',
-      damage: '1d10',
-      numCurrent: '',
-      numMax: '',
-      attack: '1/2',
-      reach: '',
-      defect: 1,
-      area: '',
+     
     },
   ],
   attributes: [
     {
       type: 'Aparência',
-      amount: 10,
+      amount: 5,
     },
     {
       type: 'Constituição',
-      amount: 10,
+      amount: 4,
     },
     {
       type: 'Destreza',
-      amount: 10,
+      amount: 8,
     },
     {
       type: 'Educação',
@@ -59,7 +51,7 @@ const data = {
     },
     {
       type: 'Força',
-      amount: 10,
+      amount: 7,
     },
     {
       type: 'Inteligência',
@@ -67,19 +59,19 @@ const data = {
     },
     {
       type: 'Poder',
-      amount: 10,
+      amount: 5,
     },
     {
       type: 'Sorte',
-      amount: 10,
+      amount: 7,
     },
     {
       type: 'Movimento',
       amount: 10,
     },
     {
-      type: '?',
-      amount: 10,
+      type: 'Briga',
+      amount: 6,
     },
   ],
 }
