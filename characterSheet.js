@@ -3,7 +3,7 @@ const data = {
   player: 'Kirax7',
   occupation: 'Reporter',
   age: 19,
-  sex: 'male',
+  sex: 'female',
   birthplace: 'São paulo',
   residence: 'São paulo',
 
