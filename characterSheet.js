@@ -28,9 +28,8 @@ const data = {
       defect: 1,
       area: '',
     },
-    {
+    
      
-    },
   ],
   attributes: [
     {
